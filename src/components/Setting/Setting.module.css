@@ -1,0 +1,17 @@
+.btn {
+  border: none;
+  background-color: transparent;
+  color: #fafafa;
+  transition: background-color 250ms linear;
+}
+
+.btn:hover {
+  background-color: rgba(137, 43, 226, 0.208);
+}
+
+.icon {
+  transition: transform 250ms linear;
+}
+.btn:hover .icon {
+  transform: rotate(180deg);
+}

@@ -1,0 +1,13 @@
+.classAccent {
+  background-color: rgba(165, 42, 42, 0.296);
+}
+
+.calendar {
+  /* max-width: 500px; */
+  /* height: 400px; */
+  width: 100%;
+  padding: 4px 18px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}

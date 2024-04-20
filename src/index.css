@@ -1,0 +1,16 @@
+body {
+  background: rgb(251, 164, 63);
+  background: radial-gradient(
+    circle,
+    rgba(251, 164, 63, 1) 0%,
+    rgba(15, 18, 166, 1) 100%
+  );
+  padding-top: 4%;
+}
+
+ul,
+ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
